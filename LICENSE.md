@@ -1,4 +1,4 @@
-# 
+# rare sandwich attack bot | dex-sniping + rug-pull-detection is the best sandwich attack bot, featuring dex-sniping and rug-pull-detection. Fast, smart, and optimized for MEV and
 
 
 
